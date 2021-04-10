@@ -31,6 +31,8 @@ Since the dataset had 2 outliers, balancing was done and balanced dataset was ob
 
 After Data preprocessing:
 
+<img width="344" alt="Screenshot 2021-04-10 at 9 07 27 PM" src="https://user-images.githubusercontent.com/58811776/114275811-93505800-9a41-11eb-9651-0519838ab4a7.png">
+
 
 
 ## Text Pre-processing:
