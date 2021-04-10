@@ -20,5 +20,11 @@ The dataset consists information about 20000 products with features like descrip
 ## Data preprocessing: 
 Initially, there was a product category tree. After processing, the primary category was figured out for all the rows. The category mentioned for a lot of products did not lie in 
 in one of the primary categories. After visulation, correct category was alloted to such products. After the preprocessing, 18 primary categories were left.
+Since the dataset had 2 outliers, balancing was done and balanced dataset was obtained to further work upon.
 
-![Primary Categories](https://drive.google.com/drive/u/0/my-drive)
+## Text Pre-processing:
+The descriptions were cleaned(removal of stop words, changing to lowercase etc.) and most common words for each category as well as whole dataset were plotted.
+
+## Model Building:
+Logistic Regression, Naive Bayes, Random Forest and SVM was tried. Random Forest outperformed amongst all the models with an accuracy of ~99% while other SVM did not perform at par with the others.
+
