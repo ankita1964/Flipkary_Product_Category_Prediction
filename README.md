@@ -42,6 +42,8 @@ The descriptions were cleaned(removal of stop words, changing to lowercase etc.)
 
 <img width="1322" alt="Screenshot 2021-04-10 at 9 07 16 PM (1)" src="https://user-images.githubusercontent.com/58811776/114275931-fe019380-9a41-11eb-9bfb-bac9413fac43.png">
 
+The average length of the descriptions for all the categories was found out to be ~125.
+
 ## Model Building:
 Logistic Regression, Naive Bayes, Random Forest and SVM was tried. Random Forest outperformed amongst all the models with an accuracy of ~99% while other SVM did not perform at par with the others.
 
