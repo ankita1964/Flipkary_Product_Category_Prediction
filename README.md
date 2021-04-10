@@ -51,10 +51,10 @@ Logistic Regression, Naive Bayes, Random Forest and SVM were tried. Random Fores
 
 | Model  | Logistic Regression | Naive Bayes | SVM | Random Forest |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Accuracy  |  [0.957]  |  [0.957]  | [Blog 1]  | 
-| Precision | [0.96](https://nandinibansal1811.medium.com/women-who-code-mentorship-program-week-2-aaecb2bbe902) | [Blog 2](https://shrishtigoyal.medium.com/wwcd-mentorship-program-3-0-week-2-9e91cfc508ca) | [Blog 2](https://niti-kaur.medium.com/women-who-code-delhi-week-2-c265437c0d52) |
-| Recall  | [0.96](https://nandinibansal1811.medium.com/women-who-code-mentorship-program-week-3-6cc4894817d5) | [Blog 3](https://shrishtigoyal.medium.com/wwcd-mentorship-program-3-0-week-3-6565c672c431) | [Blog 3](https://niti-kaur.medium.com/women-who-code-delhi-week-3-7ac678816740) |
-| f1-score | [0.96](https://nandinibansal1811.medium.com/women-who-code-mentorship-program-week-4-2dfbc93ac7ea) | [Blog 4](https://shrishtigoyal.medium.com/wwcd-mentorship-program-3-0-week-4-3f049b97c5a8) | [Blog 4](https://niti-kaur.medium.com/women-who-code-delhi-week-4-2adb7421ce42) |
+| Accuracy  |  0.957  |  0.961  | 0.926 | 0.952 | 
+| Precision | 0.96 | 0.96  | 0.93  | 0.95 |
+| Recall  | 0.96 | 0.96  | 0.93  | 0.95 |
+| f1-score | 0.96 | 0.96  | 0.92  | 0.95 |
 
 
 <img width="522" alt="Screenshot 2021-04-10 at 9 08 17 PM" src="https://user-images.githubusercontent.com/58811776/114276006-6c465600-9a42-11eb-9d01-2de92aa9d55c.png"> <img width="523" alt="Screenshot 2021-04-10 at 9 08 10 PM" src="https://user-images.githubusercontent.com/58811776/114276008-6d778300-9a42-11eb-9f84-83c5b511e634.png">
