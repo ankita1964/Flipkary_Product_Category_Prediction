@@ -45,6 +45,6 @@ The descriptions were cleaned(removal of stop words, changing to lowercase etc.)
 ## Model Building:
 Logistic Regression, Naive Bayes, Random Forest and SVM was tried. Random Forest outperformed amongst all the models with an accuracy of ~99% while other SVM did not perform at par with the others.
 
-<img width="344" alt="Screenshot 2021-04-10 at 9 07 27 PM (1)" src="https://user-images.githubusercontent.com/58811776/114275932-ff32c080-9a41-11eb-9480-028bd0c70cb5.png">
+<img width="522" alt="Screenshot 2021-04-10 at 9 08 17 PM" src="https://user-images.githubusercontent.com/58811776/114276006-6c465600-9a42-11eb-9d01-2de92aa9d55c.png"> <img width="523" alt="Screenshot 2021-04-10 at 9 08 10 PM" src="https://user-images.githubusercontent.com/58811776/114276008-6d778300-9a42-11eb-9f84-83c5b511e634.png">
 
 
