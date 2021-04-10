@@ -47,7 +47,7 @@ The average length of the descriptions for all the categories was found out to b
 <img width="374" alt="Screenshot 2021-04-10 at 9 46 51 PM" src="https://user-images.githubusercontent.com/58811776/114276905-5d61a280-9a46-11eb-912c-0a67c15f553f.png">
 
 ## Model Building:
-Logistic Regression, Naive Bayes, Random Forest and SVM were tried. Random Forest outperformed amongst all the models with an accuracy of ~99% while other SVM did not perform at par with the others.
+Logistic Regression, Naive Bayes, Random Forest and SVM were tried. Naive Bayes, Logistic Regression, and Random Forest performed equally well while SVM did not perform at par with the others.
 
 | Model  | Logistic Regression | Naive Bayes | SVM | Random Forest |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
