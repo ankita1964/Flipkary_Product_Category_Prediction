@@ -1,4 +1,4 @@
-# Flipkary_Product_Category_Prediction
+# Flipkart_Product_Category_Prediction
 
 <img width="660" alt="Screenshot 2021-04-10 at 11 17 18 AM" src="https://user-images.githubusercontent.com/58811776/114275679-01e0e600-9a41-11eb-8984-6d08bd0fd29e.png">
 
